@@ -1,10 +1,12 @@
 cff-version: 1.2.0
-title: "ImageJ Automation Tool"
+title: "eLife-VOR-RA-2023-90375"
 authors:
-  - family-names: Smith
-    given-names: Alice
-  - family-names: Lee
-    given-names: Bob
-version: 2.3
-date-released: 2024-04-15
-url: https://github.com/asmith/imagej_automation_tool
+  - family-names: Chennell 
+    given-names: George
+  - family-names: Tsakali1
+    given-names: Sofia Serena
+  - family-names: Kapustin
+    given-names: Alexander
+version: 1.0
+date-released: 2025-09-05
+url: https://github.com/Alex-biochem/eLife-VOR-RA-2023-90375
