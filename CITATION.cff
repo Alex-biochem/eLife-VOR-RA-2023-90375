@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "ImageJ Automation Tool"
+authors:
+  - family-names: Smith
+    given-names: Alice
+  - family-names: Lee
+    given-names: Bob
+version: 2.3
+date-released: 2024-04-15
+url: https://github.com/asmith/imagej_automation_tool
